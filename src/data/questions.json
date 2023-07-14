@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "1",
+    "question": "Who is the current Prime Minister of Pakistan?",
+    "options": [
+      "Imran Khan",
+      "Shahbaz Sharif",
+      "Asif Ali Zardari",
+      "Bilawal Bhutto Zardari"
+    ],
+    "answer": "Shahbaz Sharif"
+  },
+  {
+    "id": "2",
+    "question": "Which Pakistani cricketer has the highest number of Test wickets?",
+    "options": [
+      "Wasim Akram",
+      "Imran Khan",
+      "Waqar Younis",
+      "Yasir Shah"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": "3",
+    "question": "In which year did Pakistan win their first Cricket World Cup?",
+    "options": [
+      "1983",
+      "1987",
+      "1992",
+      "1996"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": "4",
+    "question": "Who is known as the 'Rawalpindi Express' in Pakistani cricket?",
+    "options": [
+      "Shoaib Akhtar",
+      "Wasim Akram",
+      "Mohammad Amir",
+      "Imran Khan"
+    ],
+    "answer": "Shoaib Akhtar"
+  },
+  {
+    "id": "5",
+    "question": "Which Pakistani cricketer has scored the most centuries in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Javed Miandad",
+      "Inzamam-ul-Haq",
+      "Mohammad Yousuf"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "6",
+    "question": "Which city in Pakistan is known as the 'City of Lights'?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Faisalabad"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "7",
+    "question": "Who is the highest run-scorer for Pakistan in One Day Internationals (ODIs)?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Saeed Anwar"
+    ],
+    "answer": "Inzamam-ul-Haq"
+  },
+  {
+    "id": "8",
+    "question": "Which Pakistani cricketer has the nickname 'Boom Boom'?",
+    "options": [
+      "Shahid Afridi",
+      "Shoaib Malik",
+      "Mohammad Hafeez",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "9",
+    "question": "In which city is the National Stadium located in Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "10",
+    "question": "Which Pakistani cricketer has the highest individual score in Test cricket?",
+    "options": [
+      "Younis Khan",
+      "Zaheer Abbas",
+      "Hanif Mohammad",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "11",
+    "question": "Which Pakistani cricketer has taken the most wickets in ODIs?",
+    "options": [
+      "Waqar Younis",
+      "Wasim Akram",
+      "Shoaib Akhtar",
+      "Saqlain Mushtaq"
+    ],
+    "answer": "Waqar Younis"
+  },
+  {
+    "id": "12",
+    "question": "Who is the current captain of the Pakistan national cricket team?",
+    "options": [
+      "Babar Azam",
+      "Imad Wasim",
+      "Shadab Khan",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "13",
+    "question": "Which Pakistani cricketer has the highest batting average in Test matches?",
+    "options": [
+      "Mohammad Yousuf",
+      "Younis Khan",
+      "Misbah-ul-Haq",
+      "Javed Miandad"
+    ],
+    "answer": "Mohammad Yousuf"
+  },
+  {
+    "id": "14",
+    "question": "Which city in Pakistan is famous for its mangoes?",
+    "options": [
+      "Multan",
+      "Lahore",
+      "Quetta",
+      "Peshawar"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "15",
+    "question": "Which Pakistani cricketer has the most sixes in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Babar Azam",
+      "Ahmed Shehzad",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "16",
+    "question": "In which year did Pakistan win their first T20 World Cup?",
+    "options": [
+      "2007",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2009"
+  },
+  {
+    "id": "17",
+    "question": "Who is the highest wicket-taker for Pakistan in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Saeed Ajmal",
+      "Mohammad Amir",
+      "Umar Gul"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "18",
+    "question": "Which Pakistani cricketer has scored the most runs in T20 Internationals?",
+    "options": [
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Umar Akmal"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "19",
+    "question": "Which city in Pakistan is known as the 'City of Saints'?",
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Multan",
+      "Faisalabad"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "20",
+    "question": "Who is the highest individual run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Ahmed Shehzad",
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "21",
+    "question": "Which Pakistani cricketer has the most dismissals as a wicket-keeper in Test matches?",
+    "options": [
+      "Moin Khan",
+      "Kamran Akmal",
+      "Rashid Latif",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Moin Khan"
+  },
+  {
+    "id": "22",
+    "question": "In which city is the Gaddafi Stadium located in Pakistan?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Rawalpindi",
+      "Islamabad"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "23",
+    "question": "Who was the captain of the Pakistan national cricket team when they won the 2009 T20 World Cup?",
+    "options": [
+      "Shahid Afridi",
+      "Shoaib Malik",
+      "Mohammad Hafeez",
+      "Younis Khan"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "24",
+    "question": "Which Pakistani cricketer has the highest individual score in ODIs?",
+    "options": [
+      "Saeed Anwar",
+      "Fakhar Zaman",
+      "Imam-ul-Haq",
+      "Zaheer Abbas"
+    ],
+    "answer": "Fakhar Zaman"
+  },
+  {
+    "id": "25",
+    "question": "Who is the highest run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Shadab Khan",
+      "Umar Akmal"
+    ],
+    "answer": "Mohammad Hafeez"
+  },
+  {
+    "id": "26",
+    "question": "Which Pakistani cricketer has the most centuries in ODIs?",
+    "options": [
+      "Saeed Anwar",
+      "Inzamam-ul-Haq",
+      "Mohammad Yousuf",
+      "Babar Azam"
+    ],
+    "answer": "Saeed Anwar"
+  },
+  {
+    "id": "27",
+    "question": "Which city in Pakistan is known as the 'City of Gardens'?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Peshawar",
+      "Islamabad"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "28",
+    "question": "Who was the captain of the Pakistan national cricket team when they won their first Cricket World Cup in 1992?",
+    "options": [
+      "Imran Khan",
+      "Wasim Akram",
+      "Inzamam-ul-Haq",
+      "Javed Miandad"
+    ],
+    "answer": "Imran Khan"
+  },
+  {
+    "id": "29",
+    "question": "Which Pakistani cricketer has the best bowling figures in a Test innings?",
+    "options": [
+      "Imran Khan",
+      "Waqar Younis",
+      "Fazal Mahmood",
+      "Shoaib Akhtar"
+    ],
+    "answer": "Imran Khan"
+  },
+  {
+    "id": "30",
+    "question": "In which city is the Faisal Mosque located in Pakistan?",
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Karachi",
+      "Rawalpindi"
+    ],
+    "answer": "Islamabad"
+  },
+  {
+    "id": "31",
+    "question": "Who is the only Pakistani cricketer to score a triple century in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Hanif Mohammad",
+      "Inzamam-ul-Haq",
+      "Azhar Ali"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "32",
+    "question": "Which Pakistani cricketer has the most runs in a single Test series?",
+    "options": [
+      "Younis Khan",
+      "Mohammad Yousuf",
+      "Javed Miandad",
+      "Azhar Ali"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "33",
+    "question": "In which year did Pakistan win their second Cricket World Cup?",
+    "options": [
+      "1983",
+      "1987",
+      "1992",
+      "2019"
+    ],
+    "answer": "2019"
+  },
+  {
+    "id": "34",
+    "question": "Who is the highest run-scorer for Pakistan in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "35",
+    "question": "Which Pakistani cricketer has the most five-wicket hauls in Test matches?",
+    "options": [
+      "Wasim Akram",
+      "Imran Khan",
+      "Waqar Younis",
+      "Yasir Shah"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": "36",
+    "question": "Who is the highest wicket-taker for Pakistan in Test matches?",
+    "options": [
+      "Wasim Akram",
+      "Imran Khan",
+      "Waqar Younis",
+      "Yasir Shah"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": "37",
+    "question": "Which Pakistani cricketer has the most catches as a fielder in Test matches?",
+    "options": [
+      "Youhana",
+      "Younis Khan",
+      "Mohammad Yousuf",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "38",
+    "question": "In which city is the National Cricket Academy located in Pakistan?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "39",
+    "question": "Who is the highest run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Babar Azam",
+      "Kamran Akmal"
+    ],
+    "answer": "Mohammad Hafeez"
+  },
+  {
+    "id": "40",
+    "question": "Which Pakistani cricketer has the best bowling figures in an ODI innings?",
+    "options": [
+      "Shahid Afridi",
+      "Wasim Akram",
+      "Saqlain Mushtaq",
+      "Aaqib Javed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "41",
+    "question": "In which city is the Rawalpindi Cricket Stadium located in Pakistan?",
+    "options": [
+      "Rawalpindi",
+      "Islamabad",
+      "Lahore",
+      "Karachi"
+    ],
+    "answer": "Rawalpindi"
+  },
+  {
+    "id": "42",
+    "question": "Who was the captain of the Pakistan national cricket team when they won their second Cricket World Cup in 2019?",
+    "options": [
+      "Sarfaraz Ahmed",
+      "Babar Azam",
+      "Imad Wasim",
+      "Shadab Khan"
+    ],
+    "answer": "Sarfaraz Ahmed"
+  },
+  {
+    "id": "43",
+    "question": "Which Pakistani cricketer has the most runs in an ODI innings?",
+    "options": [
+      "Saeed Anwar",
+      "Fakhar Zaman",
+      "Imam-ul-Haq",
+      "Zaheer Abbas"
+    ],
+    "answer": "Fakhar Zaman"
+  },
+  {
+    "id": "44",
+    "question": "Who is the highest run-scorer for Pakistan in One Day Internationals (ODIs)?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Saeed Anwar"
+    ],
+    "answer": "Inzamam-ul-Haq"
+  },
+  {
+    "id": "45",
+    "question": "Which Pakistani cricketer has the most centuries in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Javed Miandad",
+      "Inzamam-ul-Haq",
+      "Mohammad Yousuf"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "46",
+    "question": "Which city in Pakistan is known as the 'City of Lights'?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Faisalabad"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "47",
+    "question": "Who is the highest run-scorer for Pakistan in One Day Internationals (ODIs)?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Saeed Anwar"
+    ],
+    "answer": "Inzamam-ul-Haq"
+  },
+  {
+    "id": "48",
+    "question": "Which Pakistani cricketer has the nickname 'Boom Boom'?",
+    "options": [
+      "Shahid Afridi",
+      "Shoaib Malik",
+      "Mohammad Hafeez",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "49",
+    "question": "In which city is the National Stadium located in Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "50",
+    "question": "Which Pakistani cricketer has the highest individual score in Test cricket?",
+    "options": [
+      "Younis Khan",
+      "Zaheer Abbas",
+      "Hanif Mohammad",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "51",
+    "question": "Which Pakistani cricketer has taken the most wickets in ODIs?",
+    "options": [
+      "Waqar Younis",
+      "Wasim Akram",
+      "Shoaib Akhtar",
+      "Saqlain Mushtaq"
+    ],
+    "answer": "Waqar Younis"
+  },
+  {
+    "id": "52",
+    "question": "Who is the current captain of the Pakistan national cricket team?",
+    "options": [
+      "Babar Azam",
+      "Imad Wasim",
+      "Shadab Khan",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "53",
+    "question": "Which Pakistani cricketer has the highest batting average in Test matches?",
+    "options": [
+      "Mohammad Yousuf",
+      "Younis Khan",
+      "Misbah-ul-Haq",
+      "Javed Miandad"
+    ],
+    "answer": "Mohammad Yousuf"
+  },
+  {
+    "id": "54",
+    "question": "Which city in Pakistan is famous for its mangoes?",
+    "options": [
+      "Multan",
+      "Lahore",
+      "Quetta",
+      "Peshawar"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "55",
+    "question": "Which Pakistani cricketer has the most sixes in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Babar Azam",
+      "Ahmed Shehzad",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "56",
+    "question": "In which year did Pakistan win their first T20 World Cup?",
+    "options": [
+      "2007",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2009"
+  },
+  {
+    "id": "57",
+    "question": "Who is the highest wicket-taker for Pakistan in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Saeed Ajmal",
+      "Mohammad Amir",
+      "Umar Gul"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "58",
+    "question": "Which Pakistani cricketer has scored the most runs in T20 Internationals?",
+    "options": [
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Umar Akmal"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "59",
+    "question": "Which city in Pakistan is known as the 'City of Saints'?",
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Multan",
+      "Faisalabad"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "60",
+    "question": "Who is the highest individual run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Ahmed Shehzad",
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "61",
+    "question": "Which Pakistani cricketer has the most dismissals as a wicket-keeper in Test matches?",
+    "options": [
+      "Moin Khan",
+      "Kamran Akmal",
+      "Rashid Latif",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Moin Khan"
+  },
+  {
+    "id": "62",
+    "question": "In which city is the Gaddafi Stadium located in Pakistan?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Rawalpindi",
+      "Islamabad"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "63",
+    "question": "Who was the captain of the Pakistan national cricket team when they won the 2009 T20 World Cup?",
+    "options": [
+      "Shahid Afridi",
+      "Shoaib Malik",
+      "Mohammad Hafeez",
+      "Younis Khan"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "64",
+    "question": "Which Pakistani cricketer has the highest individual score in ODIs?",
+    "options": [
+      "Saeed Anwar",
+      "Fakhar Zaman",
+      "Imam-ul-Haq",
+      "Zaheer Abbas"
+    ],
+    "answer": "Fakhar Zaman"
+  },
+  {
+    "id": "65",
+    "question": "Who is the highest run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Shadab Khan",
+      "Umar Akmal"
+    ],
+    "answer": "Mohammad Hafeez"
+  },
+  {
+    "id": "66",
+    "question": "Which Pakistani cricketer has the most centuries in ODIs?",
+    "options": [
+      "Saeed Anwar",
+      "Inzamam-ul-Haq",
+      "Mohammad Yousuf",
+      "Babar Azam"
+    ],
+    "answer": "Saeed Anwar"
+  },
+  {
+    "id": "67",
+    "question": "Which city in Pakistan is known as the 'City of Gardens'?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Peshawar",
+      "Islamabad"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "68",
+    "question": "Who was the captain of the Pakistan national cricket team when they won their first Cricket World Cup in 1992?",
+    "options": [
+      "Imran Khan",
+      "Wasim Akram",
+      "Inzamam-ul-Haq",
+      "Javed Miandad"
+    ],
+    "answer": "Imran Khan"
+  },
+  {
+    "id": "69",
+    "question": "Which Pakistani cricketer has the best bowling figures in a Test innings?",
+    "options": [
+      "Imran Khan",
+      "Waqar Younis",
+      "Fazal Mahmood",
+      "Shoaib Akhtar"
+    ],
+    "answer": "Imran Khan"
+  },
+  {
+    "id": "70",
+    "question": "In which city is the Faisal Mosque located in Pakistan?",
+    "options": [
+      "Islamabad",
+      "Lahore",
+      "Karachi",
+      "Rawalpindi"
+    ],
+    "answer": "Islamabad"
+  },
+  {
+    "id": "71",
+    "question": "Who is the only Pakistani cricketer to score a triple century in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Hanif Mohammad",
+      "Inzamam-ul-Haq",
+      "Azhar Ali"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "72",
+    "question": "Which Pakistani cricketer has the most runs in a single Test series?",
+    "options": [
+      "Younis Khan",
+      "Mohammad Yousuf",
+      "Javed Miandad",
+      "Azhar Ali"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "73",
+    "question": "In which year did Pakistan win their second Cricket World Cup?",
+    "options": [
+      "1983",
+      "1987",
+      "1992",
+      "2019"
+    ],
+    "answer": "2019"
+  },
+  {
+    "id": "74",
+    "question": "Who is the highest run-scorer for Pakistan in Test matches?",
+    "options": [
+      "Younis Khan",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "75",
+    "question": "Which Pakistani cricketer has the most five-wicket hauls in Test matches?",
+    "options": [
+      "Wasim Akram",
+      "Imran Khan",
+      "Waqar Younis",
+      "Yasir Shah"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": "76",
+    "question": "Who is the highest wicket-taker for Pakistan in Test matches?",
+    "options": [
+      "Wasim Akram",
+      "Imran Khan",
+      "Waqar Younis",
+      "Yasir Shah"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": "77",
+    "question": "Which Pakistani cricketer has the most catches as a fielder in Test matches?",
+    "options": [
+      "Youhana",
+      "Younis Khan",
+      "Mohammad Yousuf",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "78",
+    "question": "In which city is the National Cricket Academy located in Pakistan?",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Lahore"
+  },
+  {
+    "id": "79",
+    "question": "Who is the highest run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Babar Azam",
+      "Kamran Akmal"
+    ],
+    "answer": "Mohammad Hafeez"
+  },
+  {
+    "id": "80",
+    "question": "Which Pakistani cricketer has the best bowling figures in an ODI innings?",
+    "options": [
+      "Shahid Afridi",
+      "Wasim Akram",
+      "Saqlain Mushtaq",
+      "Aaqib Javed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "81",
+    "question": "In which city is the Rawalpindi Cricket Stadium located in Pakistan?",
+    "options": [
+      "Rawalpindi",
+      "Islamabad",
+      "Lahore",
+      "Karachi"
+    ],
+    "answer": "Rawalpindi"
+  },
+  {
+    "id": "82",
+    "question": "Who was the captain of the Pakistan national cricket team when they won their second Cricket World Cup in 2019?",
+    "options": [
+      "Sarfaraz Ahmed",
+      "Babar Azam",
+      "Imad Wasim",
+      "Shadab Khan"
+    ],
+    "answer": "Sarfaraz Ahmed"
+  },
+  {
+    "id": "83",
+    "question": "Which Pakistani cricketer has the most runs in an ODI innings?",
+    "options": [
+      "Saeed Anwar",
+      "Fakhar Zaman",
+      "Imam-ul-Haq",
+      "Zaheer Abbas"
+    ],
+    "answer": "Fakhar Zaman"
+  },
+  {
+    "id": "84",
+    "question": "Who is the highest run-scorer for Pakistan in One Day Internationals (ODIs)?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Saeed Anwar"
+    ],
+    "answer": "Inzamam-ul-Haq"
+  },
+  {
+    "id": "85",
+    "question": "Which Pakistani cricketer has the most centuries in ODIs?",
+    "options": [
+      "Saeed Anwar",
+      "Inzamam-ul-Haq",
+      "Mohammad Yousuf",
+      "Babar Azam"
+    ],
+    "answer": "Saeed Anwar"
+  },
+  {
+    "id": "86",
+    "question": "Which city in Pakistan is known as the 'City of Lights'?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Faisalabad"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "87",
+    "question": "Who is the highest run-scorer for Pakistan in One Day Internationals (ODIs)?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Javed Miandad",
+      "Mohammad Yousuf",
+      "Saeed Anwar"
+    ],
+    "answer": "Inzamam-ul-Haq"
+  },
+  {
+    "id": "88",
+    "question": "Which Pakistani cricketer has the nickname 'Boom Boom'?",
+    "options": [
+      "Shahid Afridi",
+      "Shoaib Malik",
+      "Mohammad Hafeez",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "89",
+    "question": "In which city is the National Stadium located in Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Karachi"
+  },
+  {
+    "id": "90",
+    "question": "Which Pakistani cricketer has the highest individual score in Test cricket?",
+    "options": [
+      "Younis Khan",
+      "Zaheer Abbas",
+      "Hanif Mohammad",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Younis Khan"
+  },
+  {
+    "id": "91",
+    "question": "Which Pakistani cricketer has taken the most wickets in ODIs?",
+    "options": [
+      "Waqar Younis",
+      "Wasim Akram",
+      "Shoaib Akhtar",
+      "Saqlain Mushtaq"
+    ],
+    "answer": "Waqar Younis"
+  },
+  {
+    "id": "92",
+    "question": "Who is the current captain of the Pakistan national cricket team?",
+    "options": [
+      "Babar Azam",
+      "Imad Wasim",
+      "Shadab Khan",
+      "Sarfaraz Ahmed"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "93",
+    "question": "Which Pakistani cricketer has the highest batting average in Test matches?",
+    "options": [
+      "Mohammad Yousuf",
+      "Younis Khan",
+      "Misbah-ul-Haq",
+      "Javed Miandad"
+    ],
+    "answer": "Mohammad Yousuf"
+  },
+  {
+    "id": "94",
+    "question": "Which city in Pakistan is famous for its mangoes?",
+    "options": [
+      "Multan",
+      "Lahore",
+      "Quetta",
+      "Peshawar"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "95",
+    "question": "Which Pakistani cricketer has the most sixes in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Babar Azam",
+      "Ahmed Shehzad",
+      "Sarfraz Ahmed"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "96",
+    "question": "In which year did Pakistan win their first T20 World Cup?",
+    "options": [
+      "2007",
+      "2009",
+      "2011",
+      "2016"
+    ],
+    "answer": "2009"
+  },
+  {
+    "id": "97",
+    "question": "Who is the highest wicket-taker for Pakistan in T20 Internationals?",
+    "options": [
+      "Shahid Afridi",
+      "Saeed Ajmal",
+      "Mohammad Amir",
+      "Umar Gul"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": "98",
+    "question": "Which Pakistani cricketer has scored the most runs in T20 Internationals?",
+    "options": [
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik",
+      "Umar Akmal"
+    ],
+    "answer": "Babar Azam"
+  },
+  {
+    "id": "99",
+    "question": "Which city in Pakistan is known as the 'City of Saints'?",
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Multan",
+      "Faisalabad"
+    ],
+    "answer": "Multan"
+  },
+  {
+    "id": "100",
+    "question": "Who is the highest individual run-scorer for Pakistan in T20 Internationals?",
+    "options": [
+      "Ahmed Shehzad",
+      "Babar Azam",
+      "Mohammad Hafeez",
+      "Shoaib Malik"
+    ],
+    "answer": "Babar Azam"
+  }
+]
